@@ -14,7 +14,7 @@ Main unit is reponsible for performing 1st method and for communication to senso
 
 #### 3D model
 
- - Front panel
+##### Front panel
 ![](MEH/MAIN_UNIT/V1_0/MainUnit_front_panel_pic_V1.0.png)
 
 
@@ -26,8 +26,8 @@ Used ultrasound module is HC-SR04.
 
 #### 3D model
 
- - From top
+##### From top
 ![](MEH/SENSOR_UNIT/V1_0/SensorHolder_from_top_V1.0.png)
 
- - From bottom
+##### From bottom
 ![](MEH/SENSOR_UNIT/V1_0/SensorHolder_from_bot_V1.0.png)
