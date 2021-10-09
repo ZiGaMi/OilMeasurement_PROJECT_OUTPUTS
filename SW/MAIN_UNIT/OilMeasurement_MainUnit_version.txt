@@ -1,0 +1,27 @@
+============================================================
+## Version 0.1.0 (03.10.2021)
+============================================================
+
+ Features/Changes:
+ - Initial release
+ - Access to device parameters via shell (115200 baudrate)
+ - Reading oil burner state
+ - Accumulating working hours of oil burner
+ - Calculation of oil level in tank based
+   on oil burner working hours
+ - Oil tank filling history report vis shell
+ - Managing total consumption and working hours of oil burner
+ - HMI: LEDs, display and user button
+ - Watchdog protection against deadlocks
+ 
+ Solved Issues:
+ - 
+ 
+ Known Issues:
+ - 
+
+ TODO List: 
+ - Logging oil consumption history onto SD Card
+ - Estimation for next oil tank filling
+ - Interface with external oil sensor
+
