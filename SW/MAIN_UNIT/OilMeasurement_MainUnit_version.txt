@@ -1,4 +1,27 @@
 ============================================================
+## Version 0.2.0 (14.10.2021)
+============================================================
+
+ Features/Changes:
+ - Interface with external oil sensor
+ - Calculations of oil tank level based on method 2
+ - Oil tank sensor calibration on whole range
+ - Change front HMI
+ - Added LED blink in assert
+
+ Solved Issues:
+ - Measurement of RTOS task time statistics
+ 
+ Known Issues:
+ - Watchdog disabled
+
+ TODO List: 
+ - Logging oil consumption history onto SD Card
+ - Estimation for next oil tank filling
+ 
+
+
+============================================================
 ## Version 0.1.0 (03.10.2021)
 ============================================================
 
